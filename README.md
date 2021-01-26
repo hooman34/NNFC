@@ -1,2 +1,2 @@
 # NNFC
-Neural Network From Scratch using Python
+Neural Network From Scratch in Python
